@@ -46,7 +46,7 @@ namespace TfLCodingChallenge_Sanjaya
 
                 if (result == null || result.Count < 1)
                 {
-                    Console.WriteLine($"Error 101: Road Id {roadId} invalid");
+                    Console.WriteLine($"{roadId} is not a valid road");
                     return;
                 }
 
