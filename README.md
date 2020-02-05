@@ -20,6 +20,7 @@ TFL
 
 ## How to run any tests that you have written
   Added Unit test to Business Logic Layer 
+  Test on the Visual Studio menu, choose Windows, and then choose Test Explorer
 
 ## Any assumptions that you’ve made
 
